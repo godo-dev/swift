@@ -2,4 +2,4 @@
 
 Common Swift functions and FAQs
 
-- Retrieving Keychain Passwords in Swift for macOS | [Guide](https://www.godo.dev/swift/get-keychain-password/) | [Code](https://github.com/godo-dev/swift/blob/master/src/get-keychain-value.swift)
+* Retrieving Keychain Passwords in Swift for macOS ([Guide](https://www.godo.dev/swift/get-keychain-password/) - [Code](https://github.com/godo-dev/swift/blob/master/src/get-keychain-value.swift))
